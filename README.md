@@ -10,7 +10,7 @@
 
 - 📝 I have written few articles on [https://medium.com/@isa.rufullazada](https://medium.com/@isa.rufullazada)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can connect with me via:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/isa-rufullazada-3593271a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isa-rufullazada-3593271a4" height="30" width="40" /></a>
 </p>
