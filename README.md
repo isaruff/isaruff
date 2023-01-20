@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Isa Rufullazada</h1>
 <h3 align="center">A junior Android Developer with a great enthusiasm</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/1GEATImIxEXVR79Dhk">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk/fullscreen">
 
 
 - 🌱 I’m currently learning **Kotlin and Native Android Development**
