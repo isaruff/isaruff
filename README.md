@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Isa Rufullazada</h1>
-<h3 align="center">An Android Developer</h3>
+<h1 align="center">Hi there👋, I'm Isa Rufullazada</h1>
+<h3 align="center">A junior Android Developer with a great enthusiasm</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/1GEATImIxEXVR79Dhk">
 
-- 🔭 I’m currently working on **small projects to enrich my knowledge**
 
 - 🌱 I’m currently learning **Kotlin and Native Android Development**
+
+- 🔭  Also I am building projects to enrich my knowledge
+
+- 📝 I have written few articles on [https://medium.com/@isa.rufullazada](https://medium.com/@isa.rufullazada)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
